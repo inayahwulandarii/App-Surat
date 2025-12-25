@@ -5,12 +5,11 @@ Sistem informasi yang digunakan untuk mengelola proses administrasi surat di Kan
 To access admin page, add url /admin. Example http://localhost/surat/auth/login
 
 ## Tampilan Aplikasi
-<img width="1895" height="887" alt="ss2" src="https://github.com/user-attachments/assets/0b73e94e-3d74-4d6e-8eb1-9eb85dad391f" />
-![ss1](https://github.com/user-attachments/assets/3b653734-36b5-4227-acd7-2f2e0a0377f0)
-<img width="1863" height="865" alt="ss6" src="https://github.com/user-attachments/assets/a3093d4f-daba-4fb2-9e35-2d5c99351182" />
-<img width="1871" height="881" alt="ss5" src="https://github.com/user-attachments/assets/6acbf584-75c8-4e7e-b402-6dcb8134ea2b" />
-<img width="1887" height="876" alt="ss4" src="https://github.com/user-attachments/assets/863afb37-3de6-477e-bbe3-172f052fe066" />
-<img width="1886" height="880" alt="ss3" src="https://github.com/user-attachments/assets/9d1e5b25-949f-476b-b189-ef91fcc9c999" />
+![ss1](https://github.com/user-attachments/assets/326ee726-1437-4827-acf2-8906abd39a14)
+<img width="1863" height="865" alt="ss6" src="https://github.com/user-attachments/assets/cb3dddd7-1be2-45f0-b71d-afea268a8986" />
+<img width="1871" height="881" alt="ss5" src="https://github.com/user-attachments/assets/c98309b8-bfc4-4d59-a304-05a3fef4a23c" />
+<img width="1887" height="876" alt="ss4" src="https://github.com/user-attachments/assets/a35e431d-176d-4c9e-9b8c-628691e931a0" />
+<img width="1886" height="880" alt="ss3" src="https://github.com/user-attachments/assets/93063831-eb6c-49e9-9f33-3432f263b7e2" />
 
 ## Admin Account
 |   Level   | Username | Password |
