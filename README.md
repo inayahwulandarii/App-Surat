@@ -1,5 +1,6 @@
-# Sistem Informasi Pengajuan Surat dan Monitoring Surat Menggunakan framework codeigniter
- Sistem Informasi Pengajuan Surat dan Monitoring Surat Menggunakan framework codeigniter ini memiliki tampilan yang sederhana dan fitur yang mampu berfungsi dengan baik.
+## Aplikasi Pendataan Surat Berbasis Website 
+Sistem informasi yang digunakan untuk mengelola proses administrasi surat di Kantor Dinas Pemberdayaan Masyarakat dan Desa Provinsi Sumatera Selatan. Aplikasi ini memudahkan pengajuan surat secara online, pendataan surat masuk dan surat keluar, pencarian surat, serta pengelolaan status surat secara cepat dan terintegrasi. Dengan berbasis website, aplikasi ini membantu meningkatkan efektivitas, efisiensi, dan keamanan pengarsipan surat dibandingkan dengan sistem manual.
+
 
 To access admin page, add url /admin. Example http://localhost/surat/auth/login
 
